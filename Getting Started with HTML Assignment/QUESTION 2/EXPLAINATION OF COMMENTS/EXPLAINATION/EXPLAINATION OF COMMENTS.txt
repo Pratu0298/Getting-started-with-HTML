@@ -1,0 +1,9 @@
+Explaination: Kindly check the input.txt for input in the input folder
+and output folder for output
+1) line no 9 has not rendered on browser this is the main purpose of 
+comments
+2) In line no 10 has rendeded on browser cause it is not commented 
+3) In line no 11 are giving the information of about heading tag or line 
+no 10 in the code
+4) In line no 12 some suggestion is given using comments.
+In this way comments are helpful.

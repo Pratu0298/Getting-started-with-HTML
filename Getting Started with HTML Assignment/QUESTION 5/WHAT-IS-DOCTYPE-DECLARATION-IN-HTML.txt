@@ -1,0 +1,7 @@
+QUESTION 5: What is DOCTYPE declaration in HTML?
+ANSWER : 1) HTML is markup language.
+2) DOCTYPE is an instruction given to the web browser that what type 
+of HTML(markup language) version is used.
+3) The DOCTYPE declaration refers to the Document Type Defination(DTD).
+4) The DTD specifies the rules for HTML(markup language), because of 
+that browser render the content correctly.

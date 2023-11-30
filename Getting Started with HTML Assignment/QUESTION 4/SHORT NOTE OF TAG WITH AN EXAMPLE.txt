@@ -1,0 +1,11 @@
+QUESTION 4: Write short note of tag with an example?
+Answer : 1) HTML tag help to convert the html document into web 
+browser
+2) The tags are enclosed by angular brackets(<>)
+3) Tag gives the instruction to browser that how the HTML content 
+should render on web browser
+
+EXAMPLE:
+<h1>This is the heading tag</h1>
+
+In above example '<h1>' is the opening tag and '</h1>' is closing tag.

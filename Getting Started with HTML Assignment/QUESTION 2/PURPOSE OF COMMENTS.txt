@@ -1,0 +1,9 @@
+QUESTION 2.Explain the purpose of comments in HTML and provide an
+example of how to use comments in an HTML document.
+Solution : 1) Comments are not render on the web browser 
+2) Comments are not parse by the browser 
+3) Comments are helpful to make the notes while coding and any 
+useful information which we don't want to render on the webpage but
+it should remain in the code itself 
+4) Comments will make the part of code disable 
+ 
